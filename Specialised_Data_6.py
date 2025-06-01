@@ -2,7 +2,7 @@ import math
 import csv
 from collections import defaultdict
 
-
+#jjjs
 class Participant:
     def __init__(self, name: str, idi: int, birth_year: int, birth_month: int, birth_day: int, gender: str):
         self.name = name
